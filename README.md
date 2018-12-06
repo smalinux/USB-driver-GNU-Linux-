@@ -15,17 +15,17 @@ As we struggled to have a working driver, to help readers that would like to dev
 Here is a list of the presented files: 
 
 * NR Driver
-** nr_driver.c
-** Makefile
-** nr_driver_script.sh
-** nrtest_read.py
-** nrtest_write.py
+ * nr_driver.c
+ * Makefile
+ * nr_driver_script.sh
+ * nrtest_read.py
+ * nrtest_write.py
 * Step by step
-** Minimalist driver
-** Finding endpoints
-** Read function
-** Read/write functions
-** Read using urbs
+ * Minimalist driver
+ * Finding endpoints
+ * Read function
+ * Read/write functions
+ * Read using urbs
 
 ## NR driver
 
