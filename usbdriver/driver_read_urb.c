@@ -80,6 +80,7 @@
 #include <linux/errno.h>	// pr_err()
 #include <asm/uaccess.h>	// copy_to_user(), copy_from_user()
 #include <linux/wait.h>		// wait_queue_head_t structure
+#include <linux/uaccess.h>     // copy_to_user
 
 #define VENDOR_ID		0x04d8
 #define PRODUCT_ID		0x0070
